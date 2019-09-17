@@ -1,0 +1,7 @@
+tags
+doc.ipynb
+__pycache__
+*.pdf
+*.swp
+CMakeLists.txt.user
+out
